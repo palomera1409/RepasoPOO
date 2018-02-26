@@ -1,4 +1,4 @@
-package com.tecmm.tala.lomeli.clases;
+package com.tecmm.tala.lomeli.clases.repaso;
 
 import java.util.Scanner;
 

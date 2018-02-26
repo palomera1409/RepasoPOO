@@ -1,15 +1,7 @@
 package com.ladrillerascone.lomeli.principal;
 
 
-import com.Programa1;
-import com.programa2;
-import com.programa3;
-import com.programa4;
 import com.tecmm.tala.lomeli.clases.Carro;
-import com.tecmm.tala.lomeli.clases.Motocicletas;
-import com.tecmm.tala.lomeli.clases.programa5;
-import com.tecmm.tala.lomeli.clases.programa6;
-import com.tecmm.tala.lomeli.clases.repaso.programa7;
 import com.tecmm.tala.lomeli.clases.repaso.programa8;
 
 public class principal
